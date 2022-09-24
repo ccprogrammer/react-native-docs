@@ -17,7 +17,7 @@ Select yout project folder first
   <summary> View Code </summary>
 
 ```
-npm run android or npx react-native run-android | for android 
+react-native run-android or npm run android or npx react-native run-android | for android 
 npm run ios | for ios
 ```
 </details>
